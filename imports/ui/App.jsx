@@ -7,7 +7,7 @@ export const App = () => (
   <div>
     <h1>Contacts Manager!</h1>
     < ContactForm />
-    <h4>Contact list will appear below.</h4>
+    <h4>Changes committed at 1:45pm</h4>
     < ContactList />
     
   </div>
